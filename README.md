@@ -23,3 +23,6 @@ This repository was just an exercise in Git and Pharo, so there are only two cha
         "Test addition"
         self assert: (1 myAdd: 1) equals: 2.
         self assert: (800 myAdd: 1000) equals: 1800.
+
+## Licence
+This repository is under an [MIT](https://mit-license.org/) licence, a copy of which should be in the same directory as this README.
